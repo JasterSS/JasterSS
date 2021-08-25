@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AuGarh</h1>
-<h3 align="center">I am studying for a bachelor's degree in computer science form Thailand</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JasterJ</h1>
+<h3 align="center">I am studying for a bachelor's degree in Computer Science form Thailand</h3>
 
 
-- 👨‍💻 You can also check out my portfolio at https://augarh.github.io/
+- 👨‍💻 You can also check out my portfolio at https://jasterss.github.io/
 
 - 🌱 I’m currently learning **Flutter(Dart)**
 
@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/au.garh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="au.garh" height="30" width="40" />
+  <a href="https://www.facebook.com/JasterSS" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/au.garh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="au.garh" height="30" width="40" />
