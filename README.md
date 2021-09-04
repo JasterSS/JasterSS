@@ -10,22 +10,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/JasterSS" target="blank">
+<a href="https://www.facebook.com/JasterSS" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/ss.jj24/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
+</a>
+<a href="https://www.instagram.com/ss.jj24/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://flutter.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
   </a> 
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
+  </a>
+\n
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
