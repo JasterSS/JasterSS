@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JasterJ</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jaster-J</h1>
 <h3 align="center">I am studying for a bachelor's degree in Computer Science form Thailand</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JasterSS&color=lightgrey&style=plastic&label=PROFILE+VIEWS"/> </p>
 
