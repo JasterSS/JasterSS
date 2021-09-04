@@ -9,18 +9,16 @@
 
 - ⚡ **Being surrounded by so many incredibly talented and motivated individuals made me be more motivated and want to get out of my comfort zone more.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me: &nbsp;
   <a href="https://www.facebook.com/JasterSS" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
+  </a> 
   <a href="https://line.me/ti/p/vwNA3t9b13" target="blank">
     <img align="center" src="https://gist.githubusercontent.com/remino/9406653/raw/74fc19e60e82e296e7a708dd80d679e67354db82/line.svg" height="40" width="40" />
-   </a>
-</p>
+  </a>
+</h3>
 
-<h3 align="left">Languages</h3>
-<p align="left"> 
+<h3 align="left">Languages: &nbsp;
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
   </a>
@@ -39,8 +37,9 @@
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
+</h3>
   
- <h3>Framework</h3>
+ <h3 align="left">Framework: &nbsp;
   <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
   </a>
@@ -53,14 +52,13 @@
   <a href="https://www.django-rest-framework.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
   </a>
+</h3>
 
-  <h3>Database</h3>
+<h3 align="left">Database: &nbsp;
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-
-
-</p>
+</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JasterSS&show_icons=true&locale=en&layout=compact" /></p>
 
