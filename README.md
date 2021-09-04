@@ -53,6 +53,6 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JasterSS&color=lightgrey&style=plastic&label=PROFILE+VIEWS"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=augarh&show_icons=true&locale=en&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JasterSS&show_icons=true&locale=en&layout=compact" /></p>
 
 
