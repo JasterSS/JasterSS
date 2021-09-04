@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JasterJ</h1>
 <h3 align="center">I am studying for a bachelor's degree in Computer Science form Thailand</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JasterSS&color=lightgrey&style=plastic&label=PROFILE+VIEWS"/> </p>
 
 
 - 👨‍💻 You can also check out my portfolio at https://jasterss.github.io/
@@ -10,19 +11,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/JasterSS" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/ss.jj24/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+  <a href="https://www.facebook.com/JasterSS" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://line.me/ti/p/vwNA3t9b13" target="blank">
+    <img align="center" src="https://gist.githubusercontent.com/remino/9406653/raw/74fc19e60e82e296e7a708dd80d679e67354db82/line.svg" height="40" width="40" />
+   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
 <p align="left"> 
-  
-  
-  <h5>Languages</h5>
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
   </a>
@@ -42,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   
-  <h5> Framework </h5>
+ <h3>Framework</h3>
   <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
   </a>
@@ -51,20 +49,18 @@
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-
-  <h5>Database</h5>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> 
+  <a href="https://www.django-rest-framework.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
   </a>
 
+  <h3>Database</h3>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
 
 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JasterSS&color=lightgrey&style=plastic&label=PROFILE+VIEWS"/> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JasterSS&show_icons=true&locale=en&layout=compact" /></p>
 
